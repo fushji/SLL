@@ -1,0 +1,2 @@
+# SLL
+Simple Logging Library
