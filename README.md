@@ -4,13 +4,13 @@
 
 # Run Example
 
-In order to run ssl_example simply type:
+In order to run sll_example simply type:
 
 ```bash
 make
 ```
 
-# Embedding SDS into your project
+# Embedding SLL into your project
 
 This is as simple as copying the `sll.c` and `sll.h` files inside your project src.
 
